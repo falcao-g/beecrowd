@@ -10,4 +10,5 @@
 ### Navegar por categoria
 
 1. [Iniciante](https://github.com/falcao-g/beecrowd/tree/main/1-iniciante)
+2. [Ad-hoc](https://github.com/falcao-g/beecrowd/tree/main/2-ad-hoc)
 5. [Matemática](https://github.com/falcao-g/beecrowd/tree/main/5-matematica)
