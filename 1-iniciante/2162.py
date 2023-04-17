@@ -1,23 +1,15 @@
-int(input())
+import sys
 
-values = [int(x) for x in input().split()]
+sys.stdin.readline()
+
+values = [int(x) for x in sys.stdin.readline().split()]
 
 if len(values) > 2:
     pattern = True
-
     for i in range(1, len(values)-1):
-        if values[i-1] < values[i] > values[i + 1] or values[i-1] > values[i] < values[i+1]:
-            continue
-        else:
+        if values[i-1] == values[i] or values[i] == values[i+1] or values[i-1] < values[i] < values[i + 1] or values[i-1] > values[i] > values[i+1]:
             pattern = False
             break
-
-    if pattern:
-        print(1)
-    else:
-        print(0)
+    sys.stdout.write('1\n' if pattern else '0\n')
 else:
-    if values[0] != values[1]:
-        print(1)
-    else:
-        print(0)
+    sys.stdout.write('1\n' if values[0] != values[1] else '0\n')
