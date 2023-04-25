@@ -1,8 +1,7 @@
 import sys
-present = []
+present = set()
 
 for i in range(int(sys.stdin.readline())):
-    student = sys.stdin.readline()
-    present.append(student)
+    present.add(sys.stdin.readline())
 
-sys.stdout.write(f'{len(set(present))}\n')
+sys.stdout.write(f'{len(present)}\n')
