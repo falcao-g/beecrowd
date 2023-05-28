@@ -2,7 +2,7 @@
 
 &nbsp;
 
-<p align="center">Soluções de alguns exercícios da plataforma 
+<p align="center">Soluções de alguns exercícios da plataforma
     <a href="https://www.beecrowd.com.br/">beecrowd</a>.</p><p align='center'>Esse repositório é dedicado a linguagem Python</p>
 
 &nbsp;
@@ -14,4 +14,5 @@
 3. [Strings](https://github.com/falcao-g/beecrowd/tree/main/3-strings)
 5. [Matemática](https://github.com/falcao-g/beecrowd/tree/main/5-matematica)
 7. [Grafos](https://github.com/falcao-g/beecrowd/tree/main/7-grafos)
+9. [Grafos](https://github.com/falcao-g/beecrowd/tree/main/9-sql)
 10. [Origens](https://github.com/falcao-g/beecrowd/tree/main/origens)
