@@ -1,4 +1,4 @@
-import sys, itertools
+import sys
 
 while True:
     line = sys.stdin.readline()
@@ -6,6 +6,6 @@ while True:
         break
     x, y, amount = map(int, line.split())
 
-    for _ in itertools.repeat(None, amount):
+    for i in range(amount):
         a, b = map(int, sys.stdin.readline().split())
         sys.stdout.write('Sim\n' if (a<=x and b<=y) or (a<=y and b<=x) else 'Nao\n')

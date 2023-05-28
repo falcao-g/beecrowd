@@ -1,6 +1,6 @@
-import sys, itertools
+import sys
 
-for _ in itertools.repeat(None, int(sys.stdin.readline())):
+for _ in range(int(sys.stdin.readline())):
     text = sys.stdin.readline()
     new_text = []
 
