@@ -14,5 +14,5 @@
 3. [Strings](https://github.com/falcao-g/beecrowd/tree/main/3-strings)
 5. [Matemática](https://github.com/falcao-g/beecrowd/tree/main/5-matematica)
 7. [Grafos](https://github.com/falcao-g/beecrowd/tree/main/7-grafos)
-9. [Grafos](https://github.com/falcao-g/beecrowd/tree/main/9-sql)
+9. [SQL](https://github.com/falcao-g/beecrowd/tree/main/9-sql)
 10. [Origens](https://github.com/falcao-g/beecrowd/tree/main/origens)
