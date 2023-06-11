@@ -4,6 +4,7 @@
 
 <p align="center">Soluções de alguns exercícios da plataforma
     <a href="https://www.beecrowd.com.br/">beecrowd</a>.</p><p align='center'>Esse repositório é dedicado a linguagem Python</p>
+    <p align='center'>Meu perfil pode ser acessado <a href=' https://www.beecrowd.com.br/judge/pt/profile/808123'>aqui</a></p>
 
 &nbsp;
 
