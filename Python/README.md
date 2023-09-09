@@ -8,5 +8,5 @@
 4. [Estruturas e bibliotecas](4-estruturas)
 5. [Matemática](5-matematica)
 7. [Grafos](7-grafos)
-9. [SQL](9-sql)
-10. [Origens](origens)
+
+- [Origens](origens)
