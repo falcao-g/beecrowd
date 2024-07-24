@@ -7,6 +7,7 @@
 3. [Strings](3-strings)
 4. [Estruturas e bibliotecas](4-estruturas)
 5. [Matemática](5-matematica)
+6. [Paradigmas](6-paradigmas)
 7. [Grafos](7-grafos)
 
 - [Origens](origens)
